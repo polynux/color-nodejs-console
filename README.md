@@ -1,7 +1,7 @@
 # color-nodejs-console
 Color code for nodejs console log
 
-Reset: "\x1b[0m"
+Reset: "\x1b[0m" \n
 Bright: "\x1b[1m"
 Dim: "\x1b[2m"
 Underscore: "\x1b[4m"
