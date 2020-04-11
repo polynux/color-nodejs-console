@@ -28,3 +28,5 @@ BgCyan: "\x1b[46m"<br/>
 BgWhite: "\x1b[47m"
 
 ![color-code](https://i.stack.imgur.com/ylEBX.gif)
+
+Exemple: console.log("\x1b[31m%s\x1b[0m", "Some red text")
